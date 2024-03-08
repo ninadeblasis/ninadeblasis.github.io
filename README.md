@@ -1,4 +1,5 @@
 # Nina De Blasis
 
-##oi
-###oi
+**Artes Visuais e Design Gráfico**
+
+*École Ituit Lab*
